@@ -3,6 +3,16 @@
 + [Go Lang Functions on Github](https://golang-func.github.io/www/)
 
 
+Go versus Python 3 fastest programs
+
+vs C# .NET
+vs C++
+vs Java
+vs Python
+vs Rust
+
+
+
 
     <div>
         <p>Always look at the source code.
